@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on innovative Projects
-- 📫 You can reach me @nyctophilion
+- 📫 You can reach me @ lastofera@gmail.com
 
 <!---
 RED5UN/RED5UN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
