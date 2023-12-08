@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RED5UN
+- 👋 Hi, I’m @Rithik 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on innovative Projects
